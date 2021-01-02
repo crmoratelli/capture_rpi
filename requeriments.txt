@@ -1,0 +1,7 @@
+opencv-python
+aniso8601
+Click
+Flask
+flask-marshmallow
+Flask-RESTful
+flask_cors
